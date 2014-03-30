@@ -1,0 +1,10 @@
+{
+  "name": "asset-compressor",
+  "description": "Makes loading HTML documents more efficient",
+  "version": "0.0.1",
+  "private": false,
+  "dependencies": {
+    "express": "3.x",
+    "browserstack-webdriver": "2.39.2"
+  }
+}

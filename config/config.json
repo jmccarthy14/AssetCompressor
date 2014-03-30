@@ -1,0 +1,7 @@
+{
+	"browserStack": {
+		"userName": "josephmccarthy",
+		"key": "9Gzg6SxvjuoLmCY78K6u",
+		"server": "http://hub.browserstack.com/wd/hub"
+	}
+}
